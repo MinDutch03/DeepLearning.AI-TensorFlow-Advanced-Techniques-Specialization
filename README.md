@@ -10,5 +10,5 @@ For more information you can check **[course info](https://www.deeplearning.ai/c
 
 <details>
   <summary>Show Specialization Certificate</summary>
-       <img src="https://github.com/MinDutch03/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/blob/main/assets/Coursera%20TJK6JDAWWJ2M.pdf">
+       <img src="https://github.com/MinDutch03/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/blob/main/assets/Coursera%20TJK6JDAWWJ2M.png">
   </details>
